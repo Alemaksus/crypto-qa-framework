@@ -1,5 +1,7 @@
 # 🧪 Crypto QA Framework
 
+> 🧪 QA framework for testing LLM agents with cryptocurrency data support. Includes Mock LLM for offline testing, FastAPI endpoints, Bitcoin data validation, and PyTest test suite. Built with Python, LangChain, and FastAPI.
+
 A lightweight QA framework for validating prompt-based LLM responses using Python, PyTest, and a simulated `MockLLM` agent.  
 Designed to enable fast and reliable testing of AI agents without requiring external API access (e.g., OpenAI).
 
